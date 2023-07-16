@@ -2,9 +2,8 @@
 Week 5 
 Exercises done at Jupyter Notebook
 Object-oriented Programming
-
--Inheritance
 - Composition
+- Inheritance
 - Methods
 - Modules
 - Code Reuse
